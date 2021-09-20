@@ -7,4 +7,4 @@ Get you to know me more:
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Im a SnowMan ⛄ (in MineCraft actually) and I love sheeps 🐑
 
-![Alijk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alijkaz&count_private=true&show_icons=true&theme=prussian)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Alijkaz&count_private=true&show_icons=true&theme=prussian"/>
