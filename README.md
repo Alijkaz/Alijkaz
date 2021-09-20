@@ -6,3 +6,5 @@ Get you to know me more:
 - 📫 How to reach me: [Telegram: @Alijkk](https://t.me/Alijkk) or Discord at `Alijk#2951`
 - 😄 Pronouns: HE
 - ⚡ Fun fact: Im a SnowMan ⛄ (in MineCraft actually) and I love sheeps 🐑
+
+[![Alijk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alijkaz&count_private=true&show_icons=true&theme=prussian)]
